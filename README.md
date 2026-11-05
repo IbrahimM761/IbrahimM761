@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IbrahimM761
-- 👀 I’m interested in Data Science and Software Engineering
+- 👀 I’m interested in Software Engineering and Machine Learning 
 - 🌱 I’m currently studying Computer Science @ Toronto Metropolitan University
 
 
